@@ -1,0 +1,7 @@
+Phoenix,AZ 65341.8 40.0
+Wickenburg,AZ 65395.6 34.3
+Wickieup,AZ 65470.2 27.2
+Kingman,AZ 65526.6 21.3
+Boulder_City,NV 65604.3 13.6
+Henderson,NV 65615.4 12.5
+Las_Vegas,NV 65629.5 11.0
